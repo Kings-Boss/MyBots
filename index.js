@@ -1,4 +1,4 @@
-import Telegraf from 'telegraf';
+const Telegraf = require('telegraf');
 
 const token = '6344064287:AAHLrjamkrCGEN4kDzRARvJQfFKFR6gt_BI';
 
